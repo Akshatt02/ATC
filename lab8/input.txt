@@ -1,0 +1,5 @@
+int x = 40;
+float y;
+char z;
+int a = 10;
+double ab = 78;
